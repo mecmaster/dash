@@ -108,7 +108,7 @@ dependencies=(
 "gstreamer1.0-alsa"
 "libgstreamer-plugins-base1.0-dev"
 "qtdeclarative5-dev"
-"qt5-default"
+"qtbase5-dev"
 "libgstreamer-plugins-bad1.0-dev"
 "libunwind-dev"
 "qml-module-qtmultimedia"
